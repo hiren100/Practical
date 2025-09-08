@@ -1,1 +1,1 @@
-# Practical
+# Practical sidebar
